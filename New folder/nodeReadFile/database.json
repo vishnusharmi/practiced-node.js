@@ -1,0 +1,22 @@
+[
+    {
+        "name": "dell",
+        "model": "latitude",
+        "core": "i5"
+    },
+    {
+        "name": "dell22",
+        "model": "latitude22",
+        "core": "i5"
+    },
+    {
+        "name": "dell33",
+        "model": "latitude33",
+        "core": "i5"
+    },
+    {
+        "name": "dell44",
+        "model": "latitude44",
+        "core": "i5"
+    }
+]
